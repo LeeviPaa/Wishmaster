@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 325e9886c0b0f79429afd8f0c33ab652
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _NormalMap: {fileID: 2800000, guid: 3c1924f221ec3db40a5b4ba7f7d1873a, type: 3}
+  - _Terrainmat: {fileID: 2800000, guid: 8f68608f83666164fbf6e734211df771, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
